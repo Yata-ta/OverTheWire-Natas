@@ -4,11 +4,11 @@ import base64
 
 # Define the address and port for the proxy server
 PROXY_ADDRESS = '127.0.0.1'
-PROXY_PORT = 8080
+PROXY_PORT = 8081
 
 # Define the credentials for basic authentication
 USERNAME = 'natas4'
-PASSWORD = 'tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm'
+PASSWORD = 'QryZXc2e0zahULdHrtHxzyYkj59kUxLQ'
 
 class ProxyHandler(BaseHTTPRequestHandler):
     def do_GET(self):

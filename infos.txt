@@ -1,1 +1,2 @@
 http://natas0.natas.labs.overthewire.org
+All passwords are also stored in /etc/natas_webpass/

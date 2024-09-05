@@ -5,11 +5,11 @@ import requests
 
 # Define the address and port for the proxy server
 PROXY_ADDRESS = '127.0.0.1'
-PROXY_PORT = 8080
+PROXY_PORT = 8081
 
 # Define the credentials for basic authentication
 USERNAME = 'natas5'
-PASSWORD = 'Z0NsrtIkJoKALBCLi5eqFfcRN82Au2oD'
+PASSWORD = '0n35PkggAPm2zbEpOU802c0x0Msn1ToK'
 
 MODIFY = True
 REFERER = ""
